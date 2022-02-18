@@ -1,0 +1,10 @@
+C:\Users\chepu\source\repos\ComicsLibrary\bin\Debug\netstandard2.0\ComicsLibrary.deps.json
+C:\Users\chepu\source\repos\ComicsLibrary\bin\Debug\netstandard2.0\ComicsLibrary.dll
+C:\Users\chepu\source\repos\ComicsLibrary\bin\Debug\netstandard2.0\ComicsLibrary.pdb
+C:\Users\chepu\source\repos\ComicsLibrary\obj\Debug\netstandard2.0\ComicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chepu\source\repos\ComicsLibrary\obj\Debug\netstandard2.0\ComicsLibrary.AssemblyInfoInputs.cache
+C:\Users\chepu\source\repos\ComicsLibrary\obj\Debug\netstandard2.0\ComicsLibrary.AssemblyInfo.cs
+C:\Users\chepu\source\repos\ComicsLibrary\obj\Debug\netstandard2.0\ComicsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chepu\source\repos\ComicsLibrary\obj\Debug\netstandard2.0\ComicsLibrary.dll
+C:\Users\chepu\source\repos\ComicsLibrary\obj\Debug\netstandard2.0\ComicsLibrary.pdb
+C:\Users\chepu\source\repos\ComicsLibrary\obj\Debug\netstandard2.0\ComicsLibrary.csproj.AssemblyReference.cache
